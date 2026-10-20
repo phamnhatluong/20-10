@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 150" width="240" height="300" role="img" aria-label="Thỏ dễ thương">
+<rect width="120" height="150" rx="10" fill="#fff"/>
+<g transform="rotate(3 60 80)" stroke="#4a3340" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round">
+<ellipse cx="42" cy="30" rx="10" ry="25" fill="#fff" transform="rotate(-8 42 30)"/>
+<ellipse cx="42" cy="32" rx="5" ry="16" fill="#ffc2d4" stroke="none" transform="rotate(-8 42 32)"/>
+<ellipse cx="78" cy="30" rx="10" ry="25" fill="#fff" transform="rotate(8 78 30)"/>
+<ellipse cx="78" cy="32" rx="5" ry="16" fill="#ffc2d4" stroke="none" transform="rotate(8 78 32)"/>
+<ellipse cx="60" cy="104" rx="26" ry="24" fill="#fff"/>
+<ellipse cx="60" cy="68" rx="32" ry="26" fill="#fff"/>
+<path d="M40 90q20 12 40 0l2 10q-22 12-44 0z" fill="#ff7aa2"/>
+<path d="M72 96l6 18" stroke-width="2.4"/>
+<circle cx="48" cy="66" r="3.4" fill="#4a3340"/><circle cx="72" cy="66" r="3.4" fill="#4a3340"/>
+<ellipse cx="38" cy="75" rx="5.5" ry="3.4" fill="#ffc2d4" stroke="none"/>
+<ellipse cx="82" cy="75" rx="5.5" ry="3.4" fill="#ffc2d4" stroke="none"/>
+<path d="M56 74q4 4 8 0" fill="none"/><path d="M60 72v3" fill="none"/>
+<ellipse cx="60" cy="71" rx="3" ry="2" fill="#ff7aa2" stroke-width="1.6"/>
+<ellipse cx="42" cy="124" rx="9" ry="5.5" fill="#fff"/><ellipse cx="78" cy="124" rx="9" ry="5.5" fill="#fff"/>
+<path d="M88 100c-5-8-16-1-9 7l9 9 9-9c7-8-4-15-9-7z" fill="#ff7aa2" stroke="#4a3340" stroke-width="2.2" stroke-linejoin="round"/>
+</g></svg>
